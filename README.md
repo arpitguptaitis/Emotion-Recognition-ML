@@ -20,6 +20,7 @@ Utterance: Text spoken in the video clip.
 video_clip_path: Path to the associated video file.
 
 🔍 Approach
+
 1️⃣ Feature Extraction:
 Video: Extracted 2048-dimensional feature vectors using ResNet50 on video frames.
 Text: Processed 768-dimensional BERT embeddings for textual utterances.
